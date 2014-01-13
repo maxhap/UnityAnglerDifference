@@ -1,0 +1,11 @@
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Unity Projects\VectorMaths\obj\Debug\Assembly-CSharp.dll
+C:\Users\Max\Documents\Unity Projects\VectorMaths\obj\Debug\Assembly-CSharp.pdb
